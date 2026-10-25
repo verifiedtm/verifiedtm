@@ -1,3 +1,3 @@
 # Tim Miller
 
-Engineer
+SME at having fun on the computer.
