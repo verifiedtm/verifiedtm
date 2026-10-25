@@ -11,5 +11,6 @@ SME at having fun on the computer.
 
 - haskell
 - emacs
+- nix
 - just
 - rust
