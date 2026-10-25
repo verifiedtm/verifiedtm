@@ -6,6 +6,9 @@ SME at having fun on the computer.
 
  - [portable nix home setup](https://github.com/verifiedtm/nix-home)
  - [doom config](https://github.com/verifiedtm/doom-config)
+ - [quasiquoter for prql in haskell](https://github.com/verifiedtm/prql-qq)
+ - [a nice systemd unit for a minecraft server](https://github.com/verifiedtm/minerunner)
+ - [a custom svg dashboard for emacs](https://github.com/verifiedtm/heliograph-el)
 
 ## Other stuff I enjoy
 
@@ -14,3 +17,4 @@ SME at having fun on the computer.
 - nix
 - just
 - rust
+- linux app packaging (flatpak/appimage)
