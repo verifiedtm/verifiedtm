@@ -10,7 +10,7 @@ SME at having fun on the computer.
  - [a nice systemd unit for a minecraft server](https://github.com/verifiedtm/minerunner)
  - [a custom svg dashboard for emacs](https://github.com/verifiedtm/heliograph-el)
 
-## Other stuff I enjoy
+## Other stuff I am interested in
 
 - haskell
 - emacs
